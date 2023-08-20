@@ -22,7 +22,8 @@ title: Tagglr
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Trending tagged posts from Tumblr.
-baseurl: /tagglr/docs # the subpath of your site, e.g. /blog
+#baseurl: /tagglr/docs # the subpath of your site, e.g. /blog
+baseurl: ""
 url: https://evanmacbride.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  evanmacbride
